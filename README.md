@@ -31,7 +31,7 @@
   <a id="试题库自动答题软件v22" class="blank_anchor_id"></a>
 </div>
 <h3 class="xsj_heading_h3">
-  <span class="xsj_heading_content">试题库自动答题软件V2.2</span>
+  <span class="xsj_heading_content">试题库（形政）自动答题软件V2.2</span>
 </h3>
 <div class="line_item xiaoshujiang_element" data-line="11"></div>
 <ol>
@@ -143,11 +143,11 @@
 </h4>
 <div class="line_item line_item_display xiaoshujiang_element" data-line="35"></div>
 <div class="xiaoshujiang_element xsj_anchor">
-  <a name="qqefbc9a244036962_9" class="blank_anchor_name"></a>
-  <a id="qqefbc9a244036962_9" class="blank_anchor_id"></a>
-  <a name="qq244036962" class="blank_anchor_name"></a>
-  <a id="qq244036962" class="blank_anchor_id"></a>
+  <a name="qqefbc9a1414470236_9" class="blank_anchor_name"></a>
+  <a id="qqefbc9a1414470236_9" class="blank_anchor_id"></a>
+  <a name="qq1414470236" class="blank_anchor_name"></a>
+  <a id="qq1414470236" class="blank_anchor_id"></a>
 </div>
 <h4 class="xsj_heading_h4">
-  <span class="xsj_heading_content">QQ：244036962</span>
+  <span class="xsj_heading_content">QQ：1414470236</span>
 </h4>
