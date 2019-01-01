@@ -12,11 +12,11 @@
 <div class="xiaoshujiang_element xsj_anchor">
   <a name="e5889be59bbee69599e882b2e58aa9e6898bv26_2" class="blank_anchor_name"></a>
   <a id="e5889be59bbee69599e882b2e58aa9e6898bv26_2" class="blank_anchor_id"></a>
-  <a name="创图教育助手v26" class="blank_anchor_name"></a>
-  <a id="创图教育助手v26" class="blank_anchor_id"></a>
+  <a name="创图教育助手v27" class="blank_anchor_name"></a>
+  <a id="创图教育助手v27" class="blank_anchor_id"></a>
 </div>
 <h3 class="xsj_heading_hash xsj_heading xsj_heading_h3">
-  <span class="xsj_heading_content">创图教育助手V2.6</span>
+  <span class="xsj_heading_content">创图教育助手V2.7</span>
 </h3>
 <div class="line_item xiaoshujiang_element" data-line="5"></div>
 <ol>
@@ -39,7 +39,7 @@
     增加可选择的是否自动提交试卷</li>
   <li>
     <div class="line_item xiaoshujiang_element" data-line="11"></div>
-    2018/12/31更新，可以正常使用</li>
+    修复了由于跨年导致的课程不显示的问题</li>
 </ol>
 <div class="line_item line_item_display xiaoshujiang_element" data-line="13"></div>
 <div class="xiaoshujiang_element xsj_anchor">
